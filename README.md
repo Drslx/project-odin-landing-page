@@ -5,6 +5,7 @@
 https://www.theodinproject.com/lessons/foundations-landing-page
 
 # Layout
+![layout](/project/images/layout.png)
 
 https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
 
@@ -39,3 +40,5 @@ font: 36px;
 font-style: light italic;
 --bg-color-quote: #E5E7EB;
 --color-quote: #1F2937;
+
+
